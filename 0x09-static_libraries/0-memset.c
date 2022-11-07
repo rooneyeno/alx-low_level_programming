@@ -5,8 +5,9 @@
  * @s: pointer to put the constan
  * @b: constan
  * @n: max bytes to us
- * Return: 
+ * Return:
  */
+
 char *_memset(char *s, char b, unsigned int n)
 {
 unsigned int i;
