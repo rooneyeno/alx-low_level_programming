@@ -1,1 +1,5 @@
-alx-low_level_programming beginning
+ALX LOW LEVEL PROGRAMMING
+C
+PYTHON
+&
+JAVASCRIPT
